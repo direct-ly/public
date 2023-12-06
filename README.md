@@ -1,2 +1,2 @@
 # public
-public rep
+public repository
